@@ -1,0 +1,4 @@
+https://www.datacamp.com/community/blog/python-numpy-cheat-sheet
+
+https://stackoverflow.com/questions/39567712/python-pandas-how-is-25-percentile-calculated-by-describe-function
+https://www.dataquest.io/blog/sci-kit-learn-tutorial/
